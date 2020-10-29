@@ -1,0 +1,100 @@
+{
+  "id": "2146124",
+  "name": "硅谷外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1115048",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "551962",
+      "name": "箭头",
+      "font_class": "arrow-right",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "134650",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "827664",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "4719752",
+      "name": "会员卡",
+      "font_class": "huiyuanqia",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "8947576",
+      "name": "服务中心",
+      "font_class": "fuwuzhongxin",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14055569",
+      "name": "积分商城",
+      "font_class": "jifenshangcheng",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "15549434",
+      "name": "我的订单",
+      "font_class": "wodedingdan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8897316",
+      "name": "选项",
+      "font_class": "xuanxiang",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "651191",
+      "name": "外卖订单",
+      "font_class": "waimaidingdan0101",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "683159",
+      "name": "wo-de-red",
+      "font_class": "mine-red",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "2506198",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "16271689",
+      "name": "首页 2",
+      "font_class": "shouyefuben",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
